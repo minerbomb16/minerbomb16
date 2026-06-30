@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Michał</h1>
+<h1 align="center">Hi 👋, I'm Michał<p>
+    <a target="_blank" href="https://www.linkedin.com/in/michał-bibrzycki-33aa28353"><img align="center" src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  </p></h1>
 <p align="center">I am a student at Warsaw University of Technology</p>
 
 <div align="center">
@@ -34,11 +36,7 @@
     </tr>
   </table>
 
-  <br />
-
-  <p>
-    <a target="_blank" href="https://www.linkedin.com/in/michał-bibrzycki-33aa28353"><img align="center" src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-  </p>
+  <img src="cosmic.webp" alt="Animation" width="600" />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
